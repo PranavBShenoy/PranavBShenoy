@@ -21,11 +21,11 @@
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavshenoy&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavbshenoy&show_icons=true&theme=tokyonight"/>
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavshenoy&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbshenoy&theme=tokyonight"/>
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavshenoy&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbshenoy&layout=compact&theme=tokyonight"/>
 </p>---
 
 🚀 Projects
@@ -41,7 +41,7 @@
 📫 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/Pranav-shenoy-">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
