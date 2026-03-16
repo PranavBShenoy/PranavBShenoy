@@ -44,7 +44,7 @@
 📫 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/Pranav-shenoy-b54288312">
+<a href="https://www.linkedin.com/in/pranav-shenoy-b54288312">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
