@@ -5,7 +5,7 @@
 
 👨‍💻 About Me
 
-- 🎓 Computer Science student
+- 🎓 Information Science student
 - 💻 Interested in Web Development and Software Development
 - 🌱 Currently learning PHP, MySQL, Linux
 - 🚀 Building projects to improve development skills
